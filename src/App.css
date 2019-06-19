@@ -1,0 +1,28 @@
+.App{
+
+}
+.container{
+  width:1000px;
+  margin:auto;
+}
+.logo{
+  text-align: center;
+}
+.b{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+  font-size:50px; 
+  text-align:center;
+  width:300px;
+  height:200px;
+  background-color:white;
+  box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 1px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 4px;
+  margin:15px;
+  border: 2px solid rgb(255, 255, 255);
+  float:left;
+}
+.b:hover {
+  background-color: rgb(3, 3, 3); /* Green */
+  color: rgb(255, 255, 255);
+}
